@@ -1,2 +1,1 @@
-# Parcial 1 - Estructuras de Datos 2
-Sistema modular de Triage A&E.
+﻿# parcial 1: estructuras lineales
